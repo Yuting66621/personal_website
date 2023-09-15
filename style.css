@@ -1,0 +1,35 @@
+.title-background {
+    background-color: #FBF0B2;
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+.profile {
+    border-radius: 50%; 
+}
+
+h1 {
+    font-family:cursive;
+    
+}
+
+.lead {
+    font-family: 'Merriweather', serif;
+}
+
+#About_me {
+    background-color: #FFC7EA;
+}
+
+.specific {
+    border-radius: 50%; 
+}
+
+#contact {
+    background-color: #D8B4F8;
+
+}
+
+#footer {
+    background-color: #CAEDFF;
+}
